@@ -1,0 +1,64 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+
+background-color: #51a6f5;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.portada img{
+  height: 500px;
+
+}
+.titulo p{
+  font-size: 50px;
+  color: #a52c2c;
+  font-family:  ;
+}
+
+.titulo2 p{
+  font-size: 50px;
+  color: #a52c2c;
+  font-family:  ;
+
+.enlace{
+font-family: Arial, Helvetica, sans-serif ;
+
+  .subtitulo p{
+font-size: 30px;
+color: #ba2c2c21
+  }
+  .resumen p{
+    font-size: 15px;
+    color: #000000;
+  }
+.resumen img{
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+  .comida {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .food {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .dembou {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+  }
